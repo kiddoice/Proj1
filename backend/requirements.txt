@@ -1,6 +1,8 @@
 ultralytics
 opencv-python
+flask
 pandas
 numpy
-flask
 python-dotenv
+kaggle
+pillow
